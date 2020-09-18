@@ -8,7 +8,7 @@
 <div>
   
 [![Node Badge](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js&logoColor=green&link=/)](https://)
-[![HTML Badge](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=cbl&logoColor=white&link=/)](https://)
+[![HTML Badge](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white&link=/)](https://)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=/)](https://)
 [![CSS Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white&link=/)](https://)
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=/)](https://)
