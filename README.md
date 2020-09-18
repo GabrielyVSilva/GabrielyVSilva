@@ -15,7 +15,7 @@
 [![JS Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&link=/)](https://)
 [![React Badge](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=blue&link=/)](https://)
 [![TP Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&link=/)](https://)
-[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=/)](https://)
+[![JQuery Badge](https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery&logoColor=blue&link=/)](https://)
 
 
 </div>
