@@ -16,6 +16,7 @@
 [![React Badge](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=blue&link=/)](https://)
 [![TP Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&link=/)](https://)
 [![JQuery Badge](https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery&logoColor=blue&link=/)](https://)
+[![Postgrees Badge](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white&link=/)](https://)
 
 
 </div>
